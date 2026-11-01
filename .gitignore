@@ -1,0 +1,27 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build-log/
+.history/
+.svn/
+migrate_working_dir/
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# VS Code
+.vscode/
+
+# Build and Tooling
+.dart_tool/
+.pub-cache/
+.pub/
+build/
